@@ -17,7 +17,7 @@ repeat_region=defaultdict(list)
 
 with open(sys.argv[1],"r") as f1:
 	for line in f1:
-		if line.startswith("chr") :
+		if line.startswith("Chr") :
 			lig_final=line.rstrip()
 			li=line.rstrip().split()
 

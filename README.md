@@ -4,7 +4,9 @@ Transposable elements annotation of Renan genome, WHEATOMICS project, WP1
 from /home/palasser/projects/wheatomics_wp1/annotation/TE on HPC2 cluster
 
 ## Material & Methods  
-RepeatMasker, ClariTE  
+RepeatMasker, ClariTE, embl2gff.generic.pl 
+Development of a pipeline reusable for any Triticeae genome.
+
 
 ## Support  
 frederic.choulet@inrae.fr, pauline.lasserre-zuber@inrae.fr, nathan.papon@inrae.fr  
